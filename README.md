@@ -37,7 +37,8 @@ Developed by: GOPINATH S
 RegisterNumber: 25012981
 */
 ```
-'''Program to find L and U matrix using LU decomposition.
+```
+Program to find L and U matrix using LU decomposition.
 Developed by: GOPINATH S
 RegisterNumber: 25012981
 import numpy as np
